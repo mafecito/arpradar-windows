@@ -42,4 +42,4 @@ jobs:
           path: |
             sensor/target/release/arpradar-sensor
             sensor/arpradar-sensor.service
-          retention-days: 30
+          retention-days: 1
